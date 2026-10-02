@@ -28,7 +28,7 @@ I enjoy turning ideas into real-world projects and continuously improving my dev
 ### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java" />
 </p>
 
 ### 🗄️ Database & Backend
@@ -65,11 +65,6 @@ A modern responsive website created for a cafe, featuring menu sections, careers
 
 ---
 
-### 🕉️ Bappa Beats
-
-A mobile-first devotional music web application designed for Ganesh Chaturthi with categorized songs and offline-friendly playback.
-
----
 
 ## 📊 GitHub Stats
 
@@ -104,11 +99,11 @@ A mobile-first devotional music web application designed for Ganesh Chaturthi wi
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/ckrishna147/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="www.ckrishna.in">
   <img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 
