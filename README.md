@@ -103,7 +103,7 @@ A modern responsive website created for a cafe, featuring menu sections, careers
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="www.ckrishna.in">
+<a href="ckrishna.in">
   <img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 
