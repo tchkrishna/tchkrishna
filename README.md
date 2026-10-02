@@ -19,7 +19,7 @@ I enjoy turning ideas into real-world projects and continuously improving my dev
 * 🚀 Building personal and real-world projects
 * 🎨 Interested in modern UI/UX and interactive web experiences
 * 🤝 Open to collaboration and new opportunities
-* 📍 Andhra Pradesh, India
+* 📍 Ozili, Tirupati (dt), Andhra Pradesh, India
 
 ---
 
