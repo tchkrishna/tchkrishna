@@ -51,7 +51,7 @@ I enjoy turning ideas into real-world projects and continuously improving my dev
 
 My personal portfolio showcasing my skills, projects, education and development journey.
 
-🔗 **Live:** https://tchkrishna.github.io/My-Portfolio/
+🔗 **Live:** www.ckrishna.in
 
 💻 **Repository:** https://github.com/tchkrishna/My-Portfolio
 
